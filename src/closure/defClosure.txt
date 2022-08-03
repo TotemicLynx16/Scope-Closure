@@ -1,0 +1,5 @@
+Permite acceder al ámbito de una función exterior desde una funcion interior, en javascript, las clausuras se crean cada vez que una funcion es creada.
+
+A deferencia de otros conceptos como funciones, variables u otros. Los closures no son siempre utilizados.
+
+Tienes una closure cuando una función cualquiera accede a una variable fuera de su conetxto y la recuerda.
