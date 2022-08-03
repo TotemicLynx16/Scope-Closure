@@ -1,6 +1,6 @@
 //Variables
 
-/* var a; //Declarando una variable
+var a; //Declarando una variable
 var b = 'b'; //Declarando y asignando inmediatamente una variable
 b = 'bb'; //Reasignando un valor
 var a = 'aa'; //Redelcarando una variable
@@ -14,7 +14,7 @@ function bestFruit(){
     console.log(fruit);
 }
 
-bestFruit(); */
+bestFruit();
 
 
 function countries(){
